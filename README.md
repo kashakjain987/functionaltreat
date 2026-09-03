@@ -12,7 +12,7 @@ This project is created inside:
 
 Main Python file:
 
-`Assign.py`
+`functionaltreat.py`
 
 ## About the Project
 
@@ -77,7 +77,7 @@ D:\RND Assignments\Assignment-4
 Run the Python file using:
 
 ``` text
-py Assign.py
+py functionaltreat.py
 ```
 
 
@@ -86,7 +86,7 @@ py Assign.py
 ``` text
 Assignment-4
 │
-├── Assign.py
+├── functionaltreat.py
 └── README.md
 ```
 
